@@ -15,7 +15,9 @@ body{
     margin-right: 30px;
 }
 
-.header, .price {
+.header, 
+.footer,
+.price {
     font-family: 'Source Sans Pro', Tahoma, Geneva, Verdana, sans-serif;
 }
 
