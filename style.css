@@ -90,6 +90,11 @@ body{
     padding-top:16px;
 }
 
+.product-item .info{
+    width: inherit;
+    padding-left:15px;
+}
+
 .product-item .info .price{
     padding-top:20px;
     font-size:40px;
