@@ -75,26 +75,23 @@ body{
     max-height: 700px;
     display: flex;
     flex-wrap: wrap;
-    /*padding: 0 4px;*/
 }
 
-/*.product-item .photos{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    width: 290px;
-    height: 720px;
-    align-content: space-between;
-}*/
+.col-20{
+    flex: 20%;
+}
 
-.product-item .col{
-  flex: 30%;
-  padding: 0 4px;
+.col-30{
+    flex: 30%;
+}
+
+.col-25{
+    flex: 25%;
 }
 
 .product-item .photo{
-    margin-right:15px;
-    padding-top:16px;
+    margin-right: 16px;
+    margin-top: 16px;
 }
 
 .product-item .info{
