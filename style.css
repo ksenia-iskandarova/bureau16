@@ -28,7 +28,7 @@ body{
 .header .menu{
     display: flex;
     padding-top:10px;
-    width: 50%;
+    width: 60%;
 }
 
 .header .contact{
