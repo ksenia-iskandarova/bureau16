@@ -109,16 +109,17 @@ body{
 
 .footer{
     margin-bottom: 20px;
-    margin-top:10px;
-    display:flex;
+    margin-top: 10px;
+    display: flex;
 }
 
 .footer .menu{
+    font-size: 20px;
     margin-left: auto;
     display:flex;
     margin-top:10px;
 }
 
 .footer .menu-item{
-    margin-right: 30px; 
+    margin-right: 46px; 
 }
